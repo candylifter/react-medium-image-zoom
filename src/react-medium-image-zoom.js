@@ -24,7 +24,7 @@ const defaults = {
       right           : 0,
       bottom          : 0,
       left            : 0,
-      zIndex          : 999,
+      zIndex          : 9999,
     },
     overlay: {
       position        : 'absolute',
